@@ -1,0 +1,24 @@
+.menu{
+    background-color:#28A745 !important;
+}
+
+h5{
+    color: #212529;
+    font-weight: 100;
+}
+
+p,i{
+    color: #707070;
+}
+
+.oferta{
+    color: #28A745 !important;
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.formulario{
+    background-color: #28A745;
+    padding-top:1rem;
+    padding-bottom: 1rem;
+}
